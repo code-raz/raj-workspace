@@ -1,3 +1,4 @@
+//This is a stolen file from lab computer.
 public class hello {
         public static void main(String args[]) {
        int [] marks;
